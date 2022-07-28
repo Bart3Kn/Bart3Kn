@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Bart3Kn
-- 👀 I’m interested in Computer Vision and Robotics
-- 🌱 I’m currently learning SLAM and studying at Brunel University London.
+- 👋 Hi, I’m Bartosz, you can call me Bartek or Bart, idm.
+- 👀 I’m interested in Computer Vision, AI and Robotics
+- 🌱 I’m developing my skills in ML. AI and Data analytics.
+Im currently studying Artificial Intelligence Msc at Brunel University.
 - 📫 How to reach me:
   Bartosz.Napieralski@outlook.com
   
