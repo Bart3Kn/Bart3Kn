@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bartosz, you can call me Bartek or Bart, idm.
 - 👀 I’m interested in Computer Vision, AI and Robotics
 - 🌱 I’m developing my skills in ML, AI and Data analytics and statistics.
-Im currently studying Artificial Intelligence Msc at Brunel University.
+- Currently working at Industrial Light and Magic as a Pipline Technical Director
 - 📫 How to reach me: 
   1.  Bartosz.Napieralski@outlook.com
   2.  Bartekn7 on Discord
